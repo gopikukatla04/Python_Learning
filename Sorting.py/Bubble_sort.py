@@ -12,7 +12,7 @@ def bubble_sort(arr):
                 arr[j], arr[j + 1] = arr[j + 1], arr[j]
 
 # Create the unsorted list
-# Print the original list
+# Print the original_list
 # Call the bubble_sort function
 # Print the sorted list
 arr = [64, 34, 25, 12, 22, 11, 90]
